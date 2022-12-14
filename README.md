@@ -1,7 +1,7 @@
 ### Oi, Sou o Ruan Felipe
 
 
-- 🔭 Software Developer Laravel | PHP | Django| Python e Estagiário do Ministério Público
+- 🔭 Software Developer Laravel | PHP | Django| Python e Dev Jr do Ministério Público
 - 🧑‍🎓 Estudando Devops e Vue.js atualmente 
 - 💼 email: ruansilva6721@gmail.com
 - 📲 Meu site: https://ruansilva6721.github.io/
