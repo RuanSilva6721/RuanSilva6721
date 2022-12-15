@@ -5,9 +5,11 @@
 - 💼 email: ruansilva6721@gmail.com
 - 📲 Meu site: https://ruansilva6721.github.io/
 
-<div align="center">  
-  <img width="65%" height="295px" src="https://github-readme-stats.vercel.app/api?username=RuanSilva6721&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ruan Felipe github stats" /> 
-  <img width="51%" height="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanSilva6721&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
+<div align="center">
+  <a href="https://github.com/RuanSilva6721">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuanSilva6721&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanSilva6721&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
