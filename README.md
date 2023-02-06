@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ruan+Felipe+;I'm+21+years+old;I+from+Benevides,+PA;I'm+Software+Engineering+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🔭 Software Developer Laravel | PHP | Django| Python e Dev Jr do Ministério Público
+- 🔭 Software Developer Laravel | PHP | Django| Python e php developer da Ditech
 - 🧑‍🎓 Estudando Devops e JS|React|Vue.js atualmente 
 - 💼 email: ruansilva6721@gmail.com
 - 📲 Meu site: https://ruansilva6721.github.io/
